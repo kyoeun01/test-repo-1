@@ -5,6 +5,7 @@ if ac
 if alpha
 if alex
 if alphasdkjas
+if delta
 
 def same(a):
     a=list(a.lower())
