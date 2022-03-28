@@ -5,7 +5,6 @@ if ac
 if alpha
 if alex
 if alphasdkjas
-if sdnsuai
 
 def same(a):
     a=list(a.lower())
