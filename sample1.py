@@ -1,11 +1,4 @@
-print('김경식', '201900543','컴퓨터전자시스템공학부')
-if ab
-if ac
-
-if alpha
-if alex
-if alphasdkjas
-if sdnsuai
+print('이름: 김경식', '학번: 201900543','학과: 컴퓨터전자시스템공학부')
 
 def same(a):
     a=list(a.lower())
